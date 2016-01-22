@@ -1,5 +1,5 @@
 // Action Sheet Controller
-// Default
+// Default actions
 //
 // IDECodeSnippetCompletionPrefix: asc
 // IDECodeSnippetCompletionScopes: [All]
